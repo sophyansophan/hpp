@@ -2,7 +2,7 @@
   "name": "Kalkulator HPP & Analisa",
   "short_name": "Kalkulator HPP",
   "description": "Aplikasi untuk menghitung HPP, Modal, dan Analisa Target Keuntungan Produk",
-  "start_url": "./kalkulator-hpp.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#f3f4f6",
   "theme_color": "#2563eb",
