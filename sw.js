@@ -1,6 +1,6 @@
 const CACHE_NAME = 'hpp-kalkulator-v1';
 const urlsToCache = [
-  './kalkulator-hpp.html',
+  './index.html',
   './manifest.json'
   // Catatan: Anda juga bisa menambahkan file gambar/ikon ke sini jika ada
 ];
